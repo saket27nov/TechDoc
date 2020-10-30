@@ -1,0 +1,28 @@
+preloader js html css                   done
+section header  html css                done
+pricing html css                        DONE
+cards html css                          done
+clients html css                        DONE
+
+match font of imported
+
+
+layout
+home 
+about us     cards
+services provided  
+portfolio
+testimonials
+companies
+pricing      infocus
+faq
+contact us
+
+black theme
+
+services short
+testimonials
+features 
+
+php form 
+read more
