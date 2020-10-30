@@ -1,5 +1,5 @@
 # TechDoc- IT Consulting Company Website
-#[TechDoc](https://www.techdoc.ml)
+[TechDoc](https://www.techdoc.ml)
 
 ## An interactive website for an IT Firm
 
